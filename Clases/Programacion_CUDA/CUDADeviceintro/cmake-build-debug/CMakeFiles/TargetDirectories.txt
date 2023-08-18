@@ -1,0 +1,3 @@
+D:/Documentos/UNIAT/Clases/Programacion_CUDA/CUDADeviceintro/cmake-build-debug/CMakeFiles/CUDADeviceintro.dir
+D:/Documentos/UNIAT/Clases/Programacion_CUDA/CUDADeviceintro/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Documentos/UNIAT/Clases/Programacion_CUDA/CUDADeviceintro/cmake-build-debug/CMakeFiles/rebuild_cache.dir

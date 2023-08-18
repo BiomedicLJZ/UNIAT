@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="D:\Documentos\UNIAT\Clases\Simulacion_fisicas2d\untitled\test.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="D:\Documentos\UNIAT\Clases\Simulacion_fisicas2d\untitled\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{DBA6082C-6CB8-31B2-B4CA-64605CA449F6}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

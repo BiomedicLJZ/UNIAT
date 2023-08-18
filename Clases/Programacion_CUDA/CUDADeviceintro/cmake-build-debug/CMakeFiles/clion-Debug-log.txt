@@ -1,0 +1,10 @@
+C:\Users\Lordleojz\AppData\Local\Programs\CLion\bin\cmake\win\x64\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=C:/Users/Lordleojz/AppData/Local/Programs/CLion/bin/ninja/win/x64/ninja.exe -G Ninja -S D:\Documentos\UNIAT\Clases\Programacion_CUDA\CUDADeviceintro -B D:\Documentos\UNIAT\Clases\Programacion_CUDA\CUDADeviceintro\cmake-build-debug
+-- The CUDA compiler identification is NVIDIA 12.2.128
+-- Detecting CUDA compiler ABI info
+-- Detecting CUDA compiler ABI info - done
+-- Check for working CUDA compiler: C:/Program Files/NVIDIA GPU Computing Toolkit/CUDA/v12.2/bin/nvcc.exe - skipped
+-- Detecting CUDA compile features
+-- Detecting CUDA compile features - done
+-- Configuring done (39.5s)
+-- Generating done (0.0s)
+-- Build files have been written to: D:/Documentos/UNIAT/Clases/Programacion_CUDA/CUDADeviceintro/cmake-build-debug

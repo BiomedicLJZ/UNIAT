@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="D:\Documentos\UNIAT\Clases\Simulacion_fisicas2d\untitled\cmake-build-default\CMakeFiles\7e450029862875b5b40d6455b6ef2cad\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{EA6834CE-EDCA-32E2-A5E6-81AD219FDDFE}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

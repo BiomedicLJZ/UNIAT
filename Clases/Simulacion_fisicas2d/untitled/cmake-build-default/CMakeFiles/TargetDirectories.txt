@@ -1,0 +1,3 @@
+D:/Documentos/UNIAT/Clases/Simulacion_fisicas2d/untitled/cmake-build-default/CMakeFiles/test.dir
+D:/Documentos/UNIAT/Clases/Simulacion_fisicas2d/untitled/cmake-build-default/CMakeFiles/ALL_BUILD.dir
+D:/Documentos/UNIAT/Clases/Simulacion_fisicas2d/untitled/cmake-build-default/CMakeFiles/ZERO_CHECK.dir

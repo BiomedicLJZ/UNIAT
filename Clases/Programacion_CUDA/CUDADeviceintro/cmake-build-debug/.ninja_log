@@ -1,0 +1,4 @@
+# ninja log v5
+1	8349	7140886429028393	CMakeFiles/CUDADeviceintro.dir/main.cu.obj	779a48993a0ae078
+8353	12443	7140886470050078	CMakeFiles/CUDADeviceintro.dir/cmake_device_link.obj	fa03df6a0021e7b1
+12443	13906	7140886483886013	CUDADeviceintro.exe	64e0e2ab238ce8d8

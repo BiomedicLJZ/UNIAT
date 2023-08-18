@@ -1,0 +1,3 @@
+D:/Documentos/UNIAT/Clases/Simulacion_fisicas2d/intro/cmake-build-debug/CMakeFiles/intro.dir
+D:/Documentos/UNIAT/Clases/Simulacion_fisicas2d/intro/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Documentos/UNIAT/Clases/Simulacion_fisicas2d/intro/cmake-build-debug/CMakeFiles/rebuild_cache.dir
